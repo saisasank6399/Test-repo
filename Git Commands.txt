@@ -1,0 +1,7 @@
+Git Commands
+------------
+git-init - It is used to initialize a folder as a git repository .
+
+git status is used to see the status of changes which you have done in your branch / what are the files are in staging area in your local.
+
+
